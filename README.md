@@ -10,6 +10,8 @@ Example :
 
 Attached is the input of compartments , values in each box is JetPack Thresholds
 
+https://github.com/rahulas/TecholutionRound1/blob/master/images/sample.jpg?raw=true
+
 The Thesis is hidden in compartment 5
 
 Output:
